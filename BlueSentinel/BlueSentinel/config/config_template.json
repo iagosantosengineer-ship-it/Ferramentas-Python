@@ -1,0 +1,21 @@
+{
+  "ips_confiaveis": [
+
+  ],
+
+
+  "processos_confiaveis": [
+
+  ],
+
+
+  "processos_sistema": [
+    "system",
+    "system idle process",
+    "runtimebroker.exe",
+    "services.exe",
+    "lsass.exe"
+  ],
+  
+  "beaconing_threshold": 3
+}

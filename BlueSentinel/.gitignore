@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+venv/
+
+build/
+dist/
+*.spec
+
+*.log
+relatorio_*.json
+
+config/config.json
