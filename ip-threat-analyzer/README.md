@@ -159,14 +159,6 @@ O score é baseado em:
 * Heurísticas complementam Threat Intelligence
 * A ferramenta simula um pipeline real de análise SOC
 
----
-
-## 📌 Próximos passos (roadmap)
-
-* [ ] Suporte a múltiplos IPs
-* [ ] Integração com logs do Windows (eventos 5156)
-* [ ] Integração com o projeto BlueSentinel
-* [ ] Múltiplos feeds de Threat Intelligence
 
 ---
 
