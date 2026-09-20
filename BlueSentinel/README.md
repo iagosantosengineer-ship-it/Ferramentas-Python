@@ -129,6 +129,8 @@ A interface gráfica será iniciada e permitirá:
 
 Arquivo de configuração: `config/config.json`
 
+Exemplos:
+
 ```json
 {
   "ips_confiaveis": ["13.107."],
